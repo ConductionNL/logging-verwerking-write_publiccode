@@ -1,0 +1,6 @@
+collection: https://raw.githubusercontent.com/VNG-Realisatie/gemma-verwerkingenlogging/master/docs/_content/api-write/oas-specification/logging-verwerkingen-api/openapi.yaml
+schemas:
+  VerwerktObject:
+    - properties:
+        url: "https://verwerkingenlogging-bewerking-api.vng.cloud/api/v1/verwerkte-objecten/796d0a78-444b-43e2-89e3-d93db9b16d7d"
+        verwerktObjectId: "796d0a78-444b-43e2-89e3-d93db9b16d7d"
